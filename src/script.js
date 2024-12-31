@@ -8,7 +8,7 @@ addNoteBtnEl.addEventListener('click', () => {
 (function () {
   const lsNotes = JSON.parse(localStorage.getItem('notes'));
   console.log(lsNotes);
-  if (lsNotes.length === 0 || !lsNotes) {
+  if (!lsNotes) {
     addNote();
   } else {
     lsNotes.forEach((text) => addNote(text));
