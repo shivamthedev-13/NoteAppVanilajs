@@ -46,7 +46,7 @@ function saveNote() {
 
   console.log("Saving notes:", data); // Log the notes being saved
 
-  if (localStorage.length === 0) {
+  if (data.length === 0) {
     localStorage.removeItem("notes");
   } else {
     localStorage.setItem("notes", JSON.stringify(data));
