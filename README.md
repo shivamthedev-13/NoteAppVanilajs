@@ -23,7 +23,7 @@ NoteAppVanilajs is a simple note-taking application built using vanilla JavaScri
 
 ## Live Demo
 
-Check out the live demo of the application [here](https://shivamthedev-13.github.io/NoteAppVanilajs/).
+Check out the live demo of the application [here](https://shivamthedev13notesapp.netlify.app/).
 
 ## Usage
 
