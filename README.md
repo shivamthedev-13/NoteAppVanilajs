@@ -21,6 +21,10 @@ NoteAppVanilajs is a simple note-taking application built using vanilla JavaScri
    ```
 3. Open `index.html` in your web browser to start using the app.
 
+## Live Demo
+
+Check out the live demo of the application [here](https://shivamthedev-13.github.io/NoteAppVanilajs/).
+
 ## Usage
 
 - Open the application in a web browser.
